@@ -1,4 +1,4 @@
-# CODTECH-FULLSTACK-Task1
+# CODTECH-FULLSTACK-Task2
 *OVERVIEW OF THE PROJECT:*
 Project Name: Portfolio with Backend
 Name: K.Gowtham Kumar
