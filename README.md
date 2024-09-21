@@ -30,3 +30,6 @@ Develop a personal portfolio website with a backend using Flask for server-side 
 Frontend: HTML5, CSS3 (Flexbox/Grid for layout), JavaScript (ES6+)
 Backend: Flask (Python)
 Development Tools: Visual Studio Code,
+
+![image](https://github.com/user-attachments/assets/7a5c19d6-c360-4563-9137-ca62cc364e5f)
+
