@@ -1,35 +1,37 @@
-# CODTECH-FULLSTACK-Task2
-*OVERVIEW OF THE PROJECT:*
+CODTECH-FULLSTACK-Task2
+Project Overview:
+
 Project Name: Portfolio with Backend
-Name: K.Gowtham Kumar
+Developer Name: Bodapatla Sukumar
 Company: Codtech IT Solutions
-ID: CT08DS7648
-Domain: Full-stack Development
-Duration: August 30th to September 30th of 2024
+ID: CT08DS7726
+Domain: Full-Stack Development
+Duration: August 30, 2024 - September 30, 2024
+Objective:
+To create a personal portfolio website featuring a backend built with Flask. This project aims to showcase web development skills, enhance frontend design capabilities, and provide experience in backend development with Flask.
 
-*Objective:*
-Develop a personal portfolio website with a backend using Flask for server-side logic and HTML, CSS, and JavaScript for the frontend. This project aims to showcase your skills in web development, improve frontend design abilities, and gain experience in backend development with Flask.
+Key Activities:
 
-*Key Activities:*
-*Design Responsive Frontend:*
-1. Create a visually appealing and responsive layout using HTML5 and CSS3.
-2. Implement JavaScript for interactive elements and to enhance user experience.
-3. Ensure compatibility across different devices (desktop, mobile, tablet) for seamless browsing.
+Responsive Frontend Design:
 
-*Implement Flask Backend:*
-1. Set up Flask to handle server-side operations and routing.
-2. Develop endpoints to manage content, such as projects and blog-like posts.
-3. Implement CRUD operations (Create, Read, Update, Delete) for managing projects and content.
+Develop a visually appealing and responsive layout using HTML5 and CSS3.
+Utilize JavaScript for interactive elements to improve user experience.
+Ensure compatibility across various devices (desktop, mobile, tablet) for a seamless browsing experience.
+Flask Backend Implementation:
 
-*Integration:*
-1. Integrate Flask with the frontend to display dynamic content.
-2. Use Flask's templating system to render HTML pages with data from the backend.
-3. Manage project details and display them dynamically on the frontend.
+Set up Flask to manage server-side operations and routing.
+Create endpoints to handle content management, including projects and blog posts.
+Implement CRUD (Create, Read, Update, Delete) operations for managing projects and content.
+Integration:
 
-*Technologies Used:*
-Frontend: HTML5, CSS3 (Flexbox/Grid for layout), JavaScript (ES6+)
+Connect Flask with the frontend to display dynamic content.
+Use Flask's templating system to render HTML pages with data from the backend.
+Dynamically manage and display project details on the frontend.
+Technologies Used:
+
+Frontend: HTML5, CSS3 (using Flexbox/Grid for layout), JavaScript (ES6+)
 Backend: Flask (Python)
-Development Tools: Visual Studio Code,
+Development Tools: Visual Studio Code
 
-![image](https://github.com/user-attachments/assets/7a5c19d6-c360-4563-9137-ca62cc364e5f)
+![image](portfolio.png)
 

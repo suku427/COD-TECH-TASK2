@@ -20,7 +20,7 @@ body {
   justify-content: space-between;
   align-items: center;
   z-index: 100;
-  background-color: rgb(236, 205, 205);
+  background-color: rgb(224, 224, 125);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
 }
 .logo {
@@ -233,4 +233,7 @@ footer {
     width: 100%;
     position: fixed;
     text-align: center;
+}
+footer p{
+  padding-top: 1em;
 }
